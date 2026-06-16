@@ -1,5 +1,8 @@
 # Customer Churn Analysis — Credit Card Portfolio
 
+
+![Alt Text](./Images/pexels-expect-best-79873-351264.jpg)
+
 **Exploratory analysis & customer segmentation to help a bank reduce credit-card attrition.**
 
 > A data-cleaning and EDA project on a real bank credit-card dataset. It identifies *who* is
