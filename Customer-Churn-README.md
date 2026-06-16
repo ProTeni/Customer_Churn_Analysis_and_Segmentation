@@ -5,9 +5,9 @@
 
 **Exploratory analysis & customer segmentation to help a bank reduce credit-card attrition.**
 
-> A data-cleaning and EDA project on a real bank credit-card dataset. It identifies *who* is
-> churning, *why*, and *which* at-risk customers are worth re-engaging — with concrete
-> recommendations for a business manager. The cleaned output feeds a Tableau dashboard.
+A data-cleaning and EDA project on a real bank credit-card dataset. It identifies *who* is
+churning, *why*, and *which* at-risk customers are worth re-engaging — with concrete
+recommendations for a business manager. The cleaned output feeds a Tableau dashboard.
 
 ---
 
